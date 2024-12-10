@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>updates Records</description>
+        <device_type>browser</device_type>
+        <hint>updates Records</hint>
+        <name/>
+        <order/>
+        <roles>itil</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>raj.abhishek</sys_created_by>
+        <sys_created_on>2024-12-06 16:10:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b427f131831a1210218de330ceaad3b1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Update Management</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Update Management" source="b2f5fd3d83d61210218de330ceaad337">b2f5fd3d83d61210218de330ceaad337</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Update Management">b2f5fd3d83d61210218de330ceaad337</sys_scope>
+        <sys_update_name>sys_app_application_b427f131831a1210218de330ceaad3b1</sys_update_name>
+        <sys_updated_by>raj.abhishek</sys_updated_by>
+        <sys_updated_on>2024-12-06 16:10:00</sys_updated_on>
+        <title>Update Management</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>

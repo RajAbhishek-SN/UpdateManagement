@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Update Management" language="en" table="u_update_management">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Update Management</label>
+            <language>en</language>
+            <name>u_update_management</name>
+            <plural>Update Managements</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-06 16:09:31</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Update Management</sys_name>
+            <sys_package display_value="Update Management" source="b2f5fd3d83d61210218de330ceaad337">b2f5fd3d83d61210218de330ceaad337</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Update Management">b2f5fd3d83d61210218de330ceaad337</sys_scope>
+            <sys_update_name>sys_documentation_u_update_management__en</sys_update_name>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-06 16:09:31</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

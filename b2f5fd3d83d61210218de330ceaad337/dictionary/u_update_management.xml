@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="39077931831a1210218de330ceaad338" label="Update Management" max_length="40" name="u_update_management" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="u_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="new" label="state" max_length="40" name="u_state" read_only="true" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New" value="new"/>
+                <element inactive_on_update="false" label="Completed" value="completed"/>
+                <element inactive_on_update="false" label="In Progress" value="in progress"/>
+            </choice>
+        </element>
+    </element>
+</database>
