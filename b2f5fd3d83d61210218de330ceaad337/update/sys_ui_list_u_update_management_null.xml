@@ -3,32 +3,152 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_number</element>
-            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8c573171831a1210218de330ceaad30c</list_id>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>raj.abhishek</sys_created_by>
-            <sys_created_on>2024-12-06 16:10:45</sys_created_on>
-            <sys_id>8c573171831a1210218de330ceaad30d</sys_id>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>80cdbc4b83921210218de330ceaad306</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>raj.abhishek</sys_updated_by>
-            <sys_updated_on>2024-12-06 16:10:45</sys_updated_on>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_state</element>
-            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8c573171831a1210218de330ceaad30c</list_id>
+            <element>u_table</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>raj.abhishek</sys_created_by>
-            <sys_created_on>2024-12-06 16:10:45</sys_created_on>
-            <sys_id>84573171831a1210218de330ceaad30e</sys_id>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>04cdbc4b83921210218de330ceaad306</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>raj.abhishek</sys_updated_by>
-            <sys_updated_on>2024-12-06 16:10:45</sys_updated_on>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_state</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>84cdbc4b83921210218de330ceaad306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_filter_query</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>08cdbc4b83921210218de330ceaad306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_fields</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>88cdbc4b83921210218de330ceaad306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_field_value</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>0ccdbc4b83921210218de330ceaad306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_by</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>8ccdbc4b83921210218de330ceaad306</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_created_on</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>00cdbc4b83921210218de330ceaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_on</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>80cdbc4b83921210218de330ceaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sys_updated_by</element>
+            <list_id display_value="u_update_management" element="NULL" name="u_update_management" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">44cdf04b83921210218de330ceaad323</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>raj.abhishek</sys_created_by>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
+            <sys_id>04cdbc4b83921210218de330ceaad307</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>raj.abhishek</sys_updated_by>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -42,10 +162,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>raj.abhishek</sys_created_by>
-            <sys_created_on>2024-12-06 16:10:45</sys_created_on>
+            <sys_created_on>2024-12-10 09:11:41</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8c573171831a1210218de330ceaad30c</sys_id>
+            <sys_id>44cdf04b83921210218de330ceaad323</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_update_management</sys_name>
             <sys_package display_value="Update Management" source="b2f5fd3d83d61210218de330ceaad337">b2f5fd3d83d61210218de330ceaad337</sys_package>
@@ -53,7 +173,7 @@
             <sys_scope display_value="Update Management">b2f5fd3d83d61210218de330ceaad337</sys_scope>
             <sys_update_name>sys_ui_list_u_update_management_null</sys_update_name>
             <sys_updated_by>raj.abhishek</sys_updated_by>
-            <sys_updated_on>2024-12-06 16:10:45</sys_updated_on>
+            <sys_updated_on>2024-12-10 09:11:41</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
